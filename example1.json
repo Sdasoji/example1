@@ -1,6 +1,6 @@
 {
-"airflow" : "yes"
-"redshift" : "yes"
-"flywheel" : "no"
+"airflow" : "yes",
+"redshift" : "yes",
+"flywheel" : "no",
 "rds" : "no"
 }
